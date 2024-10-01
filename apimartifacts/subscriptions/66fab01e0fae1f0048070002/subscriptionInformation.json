@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/5c052e51-795d-4106-84cb-5dec482214e0/resourceGroups/rg-eu2-latam-poc-mlops-dev-001/providers/Microsoft.ApiManagement/service/apim-upbi-dev-eastus-002/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/5c052e51-795d-4106-84cb-5dec482214e0/resourceGroups/rg-eu2-latam-poc-mlops-dev-001/providers/Microsoft.ApiManagement/service/apim-upbi-dev-eastus-002/users/1",
+    "state": "active"
+  }
+}
