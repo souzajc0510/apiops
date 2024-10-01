@@ -1,0 +1,9 @@
+http://echoapi.clodapp.net/api
+
+
+https://apim-bradhuggins-demo.azure-api.net
+
+
+HTTPS://BHUGGINS-SAMPLEAPP.AZUREWEBSITES.NET/API/
+
+Jund1@i24
